@@ -1,5 +1,6 @@
 Hi there! 👋<br>
-I'm Ehsan Alizadeh, a Physics graduate student at Osaka University with a deep interest in Quantum Computing and the interdisciplinary applications of quantum mechanics in machine learning.<br>
+
+I'm Ehsan Alizadeh, a Physics graduate student at Osaka University with a deep interest in intersection of  Quantum Computing and Machine learning.<br>
 
 🎓 Education<br>
 
