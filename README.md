@@ -5,6 +5,7 @@ I'm Ehsan Alizadeh, a Physics graduate student at Osaka University with a deep i
 🎓 Education<br>
 
 Osaka University (2023-Present): Currently a Master Student (M.S.) in Physics.<br>
+
 Osaka University (2019-2023): Completed a Bachelor of Science (B.S.) in Physics.<br>
 
 Tokyo University of Foreign Studies (2018-2019): Completed an intensive one-year Japanese language program at Japanese Language Center for International Students (JLC).<br>
