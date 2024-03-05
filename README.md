@@ -12,7 +12,7 @@ Tokyo University of Foreign Studies (2018-2019): Completed an intensive one-year
 
 🏢 Professional Work<br>
 
-PaMeLa Co., Ltd. (2021-Present): Worked on developing deep learning algorithms for EEG-based pain evaluation.<br>
+PaMeLa Co., Ltd. (2021/8-2024/3): Worked on developing deep learning algorithms for EEG-based pain evaluation.<br>
 
 Kishiwada City Board of Education (2020): Worked as a Persian-Japanese interpreter for secondary schools in Kishiwada City, Osaka perfecture , Japan.<br>
 
