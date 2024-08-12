@@ -1,4 +1,4 @@
-## IEhsan Alizadeh
+## Ehsan Alizadeh
 Avid positivist. Quantum computing.ML enginnering
 _________________
 
