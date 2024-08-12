@@ -1,5 +1,5 @@
 ## Ehsan Alizadeh
-Avid positivist. Quantum computing.ML enginnering
+Avid reader.Quantum computing .ML enginnering
 _________________
 
 Physics master student @ Osaka University since 2023 in [Oiwa Lab](https://www.sanken.osaka-u.ac.jp/labs/qse/indexEN.html), supervised by Professor Takafumi Fujita and Akira Oiwa. </br>
