@@ -7,9 +7,3 @@ Physics master student @ Osaka University since 2023 in [Oiwa Lab](https://www.s
 I hold BSc degree in **Theoretical Physics** from Osaka University (Japan) </br>
 MEXT Graudate Scholar - 2022 </br> 
 MEXT Undergraudate Scholar - 2018 </br> 
-_________________
-## Interests👀
-
-* Rust
-* Low level programming
-* Web infrastructure
