@@ -14,5 +14,8 @@ MEXT Undergraduate Scholar - 2018 </br>
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Pytorch" width="26px" src="https://static.nvidiagrid.net/ngc/containers/pytorch-logo-light.png" />
 <img align="left" alt="AWS" width="26px" src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Non-Service_Specific_copy__AWS_Cloud-512.png" />
+<img align="left" alt="HTML" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png" />
+<img align="left" alt="CSS" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css3-11-1175239.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-24-1174950.png" />
 <br />
 <br />
