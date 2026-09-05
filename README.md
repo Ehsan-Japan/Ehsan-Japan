@@ -23,9 +23,7 @@ I hold a BSc degree in Physics from Osaka University ,Japan. </br> -->
 
 </div>
 
-Hi there! 👋 I am currently a **Master's student in Physics** at [Osaka University](https://www.sanken.osaka-u.ac.jp/labs/qse/indexEN.html) (April 2023 – Present), conducting research in the **Oiwa Lab**. My academic focus lies at the intersection of quantum computing and machine learning engineering. 
-
-Prior to my graduate studies, I earned my Bachelor of Science in Physics from Osaka University.
+Hi there! 👋 I hold a **Master's degree in Physics** from [Osaka University](https://www.sanken.osaka-u.ac.jp/labs/qse/indexEN.html), where I conducted research in the **Oiwa Lab** from April 2023 to March 2025. My academic background lies at the intersection of quantum computing and machine learning engineering. 
 
 ### 🎓 Education
 - **M.Sc. in Physics** — Osaka University *(April 2023 - March 2025)*
