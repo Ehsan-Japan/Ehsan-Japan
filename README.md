@@ -28,7 +28,7 @@ Hi there! 👋 I am currently a **Master's student in Physics** at [Osaka Univer
 Prior to my graduate studies, I earned my Bachelor of Science in Physics from Osaka University.
 
 ### 🎓 Education
-- **M.Sc. in Physics** — Osaka University *(April 2023 - Present)*
+- **M.Sc. in Physics** — Osaka University *(April 2023 - March 2025)*
 - **B.Sc. in Physics** — Osaka University *(April 2019 - March 2023)*
 
 ### 📫 Connect with Me
