@@ -30,5 +30,4 @@ Hi there! 👋 I hold a **Master's degree in Physics** from [Osaka University](h
 
 ### 📫 Connect with Me
 - **GitHub:** [@Ehsan-Japan](https://github.com/Ehsan-Japan)
-- **LinkedIn:** [linkedin.com/in/ehsan-alizadeh](https://linkedin.com/in/ehsan-alizadeh)
 - **Email:** [ehsanalizadehkashtiban@email.com](mailto:ehsanalizadehkashtiban@email.com)
